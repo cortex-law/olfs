@@ -7,13 +7,11 @@ OLFS is a standardized taxonomy for legal document fields. It is designed to str
 We appreciate all feedback and contributions that will help us improve and finalize the standard.
 
 **Table of Contents**
-
-- [Open Legal Field Standard (OLFS)](#open-legal-field-standard-olfs)
-  - [Getting Started](#getting-started)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Getting Started
 
